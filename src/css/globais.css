@@ -13,4 +13,16 @@ html {
     font-family: var(--fonte-primaria);
     font-size: var(--fonte-normal);
   }
+
+  .row {
+    display: flex;
+  }
+
+  .justify-content-between {
+    justify-content: space-between;
+  }
+
+  .alinhar-itens-no-centro {
+    align-items: center;
+  }
  
